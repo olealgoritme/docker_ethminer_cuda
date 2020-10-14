@@ -1,4 +1,4 @@
-FROM nvidia/cuda
+FROM nvidia/cuda:latest
 
 MAINTAINER Ole Algoritme
 WORKDIR /
